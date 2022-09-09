@@ -1,0 +1,6 @@
+.idea
+.git
+data
+logs
+dist
+node_modules
